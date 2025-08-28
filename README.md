@@ -26,6 +26,11 @@ Las siguientes extensiones serán necesarias:
 
 ![vscode](pictures/tools/install_extensions_vscode.png)
 
+### GIT
+Descargar e instalar la herramienta desde el siguiente [enlace](https://git-scm.com/downloads/win). 
+Se debe seleccionar *Visual Studio Code* como editor de texto por defecto durante la instalación.
+![git vscode](pictures/tools/git_default_text_editor.png)
+![git end](pictures/tools/git_end.png)
 
 ### Python
 Ingresar a la página oficial de **Python** y descargar la versión [**3.11.9**](https://www.python.org/downloads/release/python-3119/) e instalar.
