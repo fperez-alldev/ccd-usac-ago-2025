@@ -56,3 +56,4 @@ tzdata
 Unidecode
 wcwidth
 wordcloud
+category_encoders
