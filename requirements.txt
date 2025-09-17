@@ -57,3 +57,4 @@ Unidecode
 wcwidth
 wordcloud
 category_encoders
+seaborn
